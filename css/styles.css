@@ -57,3 +57,11 @@ nav a:hover {
   float: right;
   margin-right: 35px;
 }
+
+.contenedor_img{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
