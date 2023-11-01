@@ -65,3 +65,58 @@ nav a:hover {
   padding-top: 150px;
   padding-bottom: 100px;
 }
+
+.skills {
+  margin-top: 98px;
+}
+
+.skills img{
+  display: block;
+  margin: auto;
+}
+.title{
+  margin-top: 65px;
+  padding-right: 5px;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.subtext{
+  text-align: center;
+  margin-top: 15px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+
+/* @media (min-width: 320px) and (720px) {
+  .logo{
+    text-align: cen;
+  }
+  nav ul{
+    float: none;
+    justify-content: space-between;
+    padding-left: 0;
+  }
+
+  nav ul a{
+    font-size: 22px;
+  }
+
+  #hero{
+    margin-top: 0px;
+  }
+
+  #hero h2{
+    margin-top: 0px;
+  }
+  }
+
+@media (min-width: 768px) { ... }
+
+@media (min-width: 992px) { ... }
+
+@media (min-width: 1200px) { ... }
+
+@media (min-width: 1400px) { ... } */
