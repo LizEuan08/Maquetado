@@ -67,7 +67,7 @@ nav a:hover {
 }
 
 .footer{
-height: 350px;
+height: 720px;
 align-items: center;
 }
 
@@ -98,14 +98,14 @@ margin: 10px;
 
 .text_box_sm{
   width: 500px;
-  height: 50px;
+  height: 70px;
   background-color: #f3f3f3;
   margin-bottom: 10px;
 }
 
 .text_box_l{
   width: 500px;
-  height: 100px;
+  height: 210px;
   background-color: #f3f3f3;
   margin-bottom: 20px;
 }
