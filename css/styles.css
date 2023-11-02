@@ -88,8 +88,26 @@ nav a:hover {
   font-size: 18px;
   line-height: 1.6;
 }
+.container_1{
+  text-align: center;
+  line-height: 2;
+  font-size: 32px;
+  font-weight: 600;
+} 
+.container_img2{
+  
+  padding-top: 40px;
+  border-radius: 50px;
+  
+}
+
+.latest-img{
+  width: 100%;
+  height: auto;
+}
 
 .footer{
+  margin-top: 55px;
   height: 350px;
   align-items: center;
   }
@@ -101,8 +119,9 @@ nav a:hover {
   }
   
   .footer_collumn_2 {
-  float:right;
-  margin-right: 10%;
+    margin-top: 8px;
+    float:right;
+    margin-right: 10%;
   }
   
   .input_small{
@@ -146,4 +165,3 @@ nav a:hover {
     vertical-align: middle;
   }
 
-  
