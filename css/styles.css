@@ -66,6 +66,29 @@ nav a:hover {
   padding-bottom: 100px;
 }
 
+.skills {
+  margin-top: 98px;
+}
+
+.skills img{
+  display: block;
+  margin: auto;
+}
+.title{
+  margin-top: 65px;
+  padding-right: 5px;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.subtext{
+  text-align: center;
+  margin-top: 15px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
 .footer{
 height: 720px;
 align-items: center;
@@ -179,3 +202,4 @@ margin: 10px;
   text-align: center;
   vertical-align: middle;
   }
+=======
