@@ -115,13 +115,11 @@ nav a:hover {
   .footer_collumn_1 {
   line-height: 27px;
   float:left ;
-  padding-left: 10%;
   }
   
   .footer_collumn_2 {
     margin-top: 8px;
     float:right;
-    margin-right: 10%;
   }
   
   .input_small{
