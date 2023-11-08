@@ -112,11 +112,9 @@ nav a:hover {
   align-items: center;
 }
 
-.col-md-12{
-  width: 50%;
+.col-lg-6{
   align-self: flex-start;
 }
-
 .fw-bold{
   padding-bottom: 34px;
 }
