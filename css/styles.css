@@ -91,19 +91,43 @@ nav a:hover {
 .container_1{
   text-align: center;
   line-height: 2;
+  margin-top: 14%;
   font-size: 32px;
   font-weight: 600;
 } 
 .container_img2{
-  
-  padding-top: 40px;
-  border-radius: 50px;
-  
+  padding-top: 60%;
+  border-radius: 30%;  
+ }   
+ .latest-img2{
+  width: 91%;
+  height: 69%;
+  margin-top: 10%;
+  margin-bottom: 9%;
+  margin-right: 15%;
+  margin-left: 4%;
+  right: 20%;
 }
 
-.latest-img{
-  width: 100%;
-  height: auto;
+.latest-img{  
+  width: 91%;
+  height: 70%;
+  margin-top: 10%;
+  margin-bottom: 9%;
+  margin-right: 15%;
+  margin-left: 4%;
+  right: 20%;
+}
+.subtitle{
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 4%;
+}
+
+.paragraph{   
+  padding: 9px;
+  margin-right: 4%;
+  margin-left: 2%;
 }
 
 .footer{
