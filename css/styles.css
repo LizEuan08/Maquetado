@@ -258,5 +258,78 @@ nav a:hover {
   vertical-align: middle;
 }
 
+@media  (max-width: 767px) { 
+  .logo{
+  text-align: center;
+  }
 
+  .col-md-6 nav ul a{
+    display: none;
+  }
+
+  #hero{
+    margin-top: 10px;
+  }
+
+  .hero_subtitle{
+    margin-top: 0px;
+    text-align: center;
+  }
+
+  .hero_title{
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  .hero_text{
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .hero_text br{
+    display: none;
+  }
+
+  .hero_image{
+    width: 318px;
+    display: flex;
+    align-self: center;
+    float: none;
+    margin: 0;
+  }
+  .contenedor_img{
+      display:inline-grid;
+      grid-template-columns:auto 125px;
+      grid-template-rows:1fr 1fr 1fr;
+      grid-gap: 55px;
+      align-content: center;
+      position: relative;
+      left: 15px;
+    }
+  .fw-bold{
+    text-align: center;
+    font-size: 32px;
+  }
+
+  .horizontal-row-2{
+    margin-bottom: 80px;
+  }
+
+  .text_box_sm{
+    width: 320px;
+  }
+  .text_box_l{
+    width:320px
+  }
+
+  .input_small{
+    width: 280px;
+  }
+
+  .input_large{
+    width: 280px;
+  }
+
+}
+ 
  
