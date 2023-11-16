@@ -297,15 +297,44 @@ nav a:hover {
     float: none;
     margin: 0;
   }
+
   .contenedor_img{
-      display:inline-grid;
-      grid-template-columns:auto 125px;
-      grid-template-rows:1fr 1fr 1fr;
-      grid-gap: 55px;
-      align-content: center;
-      position: relative;
-      left: 15px;
-    }
+    display:inline-grid;
+    grid-template-columns:auto 125px;
+    grid-template-rows:1fr 1fr 1fr;
+    grid-gap: 55px;
+    align-content: center;
+    position: relative;
+    left: 15px;
+  }
+
+  .col-3 {
+    margin-left: 0%;
+    width: 100%;
+    align-self: center;
+    margin-bottom:120px;
+  }
+
+  .col-4{
+    width :100%;
+    align-self: center;
+    margin-bottom: 120px;
+  }
+
+  .cln {
+    width: 90%;
+    align-self: center;
+    margin-bottom: 120px;
+  }
+
+  .col-4 cln{
+    width: 90%;
+  }
+
+  .contener-star{
+    font-size: 1px;
+  }
+
   .fw-bold{
     text-align: center;
     font-size: 32px;
